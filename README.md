@@ -36,10 +36,10 @@ seo-agent-skills/
 Install any skill from this repo with [`npx skills`](https://github.com/vercel-labs/skills):
 
 ```
-npx skills add github.com/nahuelmoreno/seo-agent-skills/backlink-building
+npx skills add nahumoore/seo-agent-skills --skill backlink-building
 ```
 
-(Replace `backlink-building` with any other skill's directory name.)
+(Replace `backlink-building` with any other skill's directory name, or use `--skill '*'` to install all of them.)
 
 ## Adding a skill
 
