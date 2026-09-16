@@ -29,17 +29,17 @@ seo-agent-skills/
 
 | Skill | Description |
 | --- | --- |
-| [`backlink-negotiator`](skills/backlink-negotiator/SKILL.md) | Negotiates backlink placements with site owners who've replied to [Mentiohunt](https://mentiohunt.com) outreach — checks site fit, works out what the owner wants in exchange, and drafts a counter-offer for the user to approve before sending. |
+| [`backlink-building`](skills/backlink-building/SKILL.md) | Negotiates backlink placements with site owners who've replied to [Mentiohunt](https://mentiohunt.com) outreach — checks site fit, works out what the owner wants in exchange, and drafts a counter-offer for the user to approve before sending. |
 
 ## Using a skill
 
 Install any skill from this repo with [`npx skills`](https://github.com/vercel-labs/skills):
 
 ```
-npx skills add github.com/nahuelmoreno/seo-agent-skills/backlink-negotiator
+npx skills add github.com/nahuelmoreno/seo-agent-skills/backlink-building
 ```
 
-(Replace `backlink-negotiator` with any other skill's directory name.)
+(Replace `backlink-building` with any other skill's directory name.)
 
 ## Adding a skill
 
@@ -53,4 +53,4 @@ npx skills add github.com/nahuelmoreno/seo-agent-skills/backlink-negotiator
 
 ---
 
-Built by [Nicolas More](https://mentiohunt.com), who's building [Mentiohunt](https://mentiohunt.com) — a backlink outreach tool for agents.
+Built by Nicolas More, who's building [Mentiohunt](https://mentiohunt.com) — a backlink outreach tool for agents.

@@ -1,5 +1,5 @@
 ---
-name: backlink-negotiator
+name: backlink-building
 description: Negotiate backlink placements with site owners who have replied to Mentiohunt outreach — checks whether their site is actually a good fit for the user's product, figures out what the owner wants in exchange for the link, and drafts a counter-offer (testimonial, reciprocal link, comped access, guest content, etc.) for the user to review before anything is sent. Use this whenever the user mentions Mentiohunt opportunities or replies, negotiating a guest post or link placement, a site owner asking for payment or something in exchange for a backlink, working through an outreach/prospect reply queue, or asks things like "what do these people want" or "check my opportunities."
 ---
 
